@@ -1,7 +1,7 @@
-# 🧠 Proyecto Programado 1 — Lenguajes Formales y de Programación
+# 🧠 Proyecto Programado 1 — Paradigmas de programación
 
 > **Estudiantes:** Pablo Garro y Rodrigo Vásquez  
-> **Curso:** Lenguajes Formales y de Programación  
+> **Curso:** Paradigmas de programación 
 > **Año:** 2025
 
 ---
