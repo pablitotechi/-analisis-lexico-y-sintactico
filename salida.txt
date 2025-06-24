@@ -1,0 +1,22 @@
+Línea 1: I see me.
+	✅ Análisis exitoso
+Línea 2: I like the rat.
+	✅ Análisis exitoso
+Línea 3: I see the cat.
+	✅ Análisis exitoso
+Línea 4: a cat sees the rat.
+	✅ Análisis exitoso
+Línea 5: the mat is the rat.
+	✅ Análisis exitoso
+Línea 6: the rat sees me.
+	✅ Análisis exitoso
+Línea 7: I like rat.
+	✅ Análisis exitoso
+Línea 9: I jump the cat.         # 'jump' no está en el vocabulario
+	❌ Error léxico: Error léxico: jump
+Línea 10: a mouse sees the mat.   # 'mouse' no está en el vocabulario
+	❌ Error léxico: Error léxico: mouse
+Línea 11: I see dog.              # 'dog' no está en el vocabulario
+	❌ Error léxico: Error léxico: dog
+Línea 12: the mat hits the rat.   # 'hits' no está en el vocabulario
+	❌ Error léxico: Error léxico: hits

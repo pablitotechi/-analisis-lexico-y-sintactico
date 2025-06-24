@@ -1,0 +1,12 @@
+I see me.
+I like the rat.
+I see the cat.
+a cat sees the rat.
+the mat is the rat.
+the rat sees me.
+I like rat.
+
+I jump the cat.         # 'jump' no está en el vocabulario
+a mouse sees the mat.   # 'mouse' no está en el vocabulario
+I see dog.              # 'dog' no está en el vocabulario
+the mat hits the rat.   # 'hits' no está en el vocabulario
